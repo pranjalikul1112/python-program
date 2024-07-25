@@ -1,17 +1,17 @@
 #string
-#str1 = "this is a stirng.\n we are creating it in python."
-#print(str1)
+str1 = "this is a stirng.\n we are creating it in python."
+print(str1)
 #string length
-#str1 = "pranjali"
-#len1 = len(str1)
-#print(len1)
+str1 = "pranjali"
+len1 = len(str1)
+print(len1)
 
-#str2 = "kul"
-#len2 = len(str2)
-#print(len2) 
-#final_str = str1+ " "+ str2
-#print(final_str)
-#print(len(final_str))
+str2 = "kul"
+len2 = len(str2)
+print(len2) 
+final_str = str1+ " "+ str2
+print(final_str)
+print(len(final_str))
 #indexing
 #str = "pranjalikul"
 #ch = str[0]
@@ -96,8 +96,8 @@
 #else:
  #   print("third is largest",c)
 #WAP to check if a number is a multiple of 7 or not
-x = int(input("enter  number:"))
-if(x % 7 == 0):
-    print("multiple of 7")
-else:
-    print("not a multiple")
+#x = int(input("enter  number:"))
+#if(x % 7 == 0):
+ #   print("multiple of 7")
+#else:
+ #   print("not a multiple")
