@@ -1,15 +1,15 @@
 #while Loop 
-#count = 1
-#while count <= 5 :
- #   print("hello")
-  #  count +=1
-#print(count)
+count = 1
+while count <= 5 :
+    print("hello")
+    count +=1
+print(count)
 #print numbers from 1 to 5
-#i = 1
-#while i <=5:
- #   print(i)
-  #  i +=1
-   # print("loop ended") 
+i = 1
+while i <=5:
+    print(i)
+    i +=1
+    print("loop ended") 
 #practice question
 #print numbers from 1 to 100
 #i = 1
@@ -117,10 +117,10 @@
     #i += 1
 # print("total sum =", sum)
 #write to find the factorial of first n numbers(using for)
-n = 5
-fact = 1
-i = 1
-while i <= n:
-    fact *= i
-    i += 1
-print("factorial =",fact)
+#n = 5
+#fact = 1
+#i = 1
+#while i <= n:
+ #   fact *= i
+  #  i += 1
+#print("factorial =",fact)
