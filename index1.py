@@ -1,14 +1,14 @@
-#marks1 = 89.1
-#marks2 = 32.2
-#marks3 = 33.3
-#marks4 = 76.4
-#marks5 = 43.5
+marks1 = 89.1
+marks2 = 32.2
+marks3 = 33.3
+marks4 = 76.4
+marks5 = 43.5
 
-#marks = [89.1,32.2,33.3,76.4,43.5]
-#print(marks)
-#print(len(marks))
-#print(marks[0])
-#print(marks[1])
+marks = [89.1,32.2,33.3,76.4,43.5]
+print(marks)
+print(len(marks))
+print(marks[0])
+print(marks[1])
 
 #student = ["pranjali",98.4,11,"pune"]
 #print(student[0])
@@ -69,7 +69,8 @@
 #    print("NOT palindrome")
 #WAP to count the number of students with the "A"
 # grade in the following tuple
-# ["C","D","A","A","B","B","A"] 
-grade = ["C","D","A","A","B","B","A"] 
-grade.sort()
-print(grade)
+# ["C","D","A","A","B","B","A"]
+# sort the above in a list and sort them from"a"to"d". 
+#grade = ["C","D","A","A","B","B","A"] 
+#grade.sort()
+#print(grade)
