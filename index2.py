@@ -1,12 +1,12 @@
-#info = {
- #   "name" : "apnacollege",
-  #  "subjects" : ["python","c","java"],
-   # "topics" : ("dict","set"),
-    #"age" : 23,
-    #"is_adult" : True,
-    #12.99 : 94.4
-    #}
-#print(info)
+info = {
+    "name" : "apnacollege",
+    "subjects" : ["python","c","java"],
+    "topics" : ("dict","set"),
+    "age" : 23,
+    "is_adult" : True,
+    12.99 : 94.4
+    }
+print(info)
 
   #nested dictionary
 #student = {
@@ -130,8 +130,8 @@
 #print(marks)
  
 # figure out a way to store 9 ad 9.0 as separate values in the set (you can take help of built-in data types)
-values = {
-    ("float",9.0),
-    ("int", 9)
-}
-print(values)
+#values = {
+ #   ("float",9.0),
+  #  ("int", 9)
+#}
+#print(values)
