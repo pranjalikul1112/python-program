@@ -201,3 +201,4 @@ odr1 = Order("chips", 20)
 odr2 = Order("tea", 15)
 
 print(odr1 > odr2)
+print(odr2 > odr1)
